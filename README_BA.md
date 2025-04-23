@@ -16,4 +16,4 @@ Welcome! This repository contains mock BA project documents demonstrating my ski
 - Google Docs
 
 ---
-🔗 Let's connect: [LinkedIn Profile](#)
+🔗 Let's connect: https://www.linkedin.com/in/mahalakshmi-sekaran-495197232/
